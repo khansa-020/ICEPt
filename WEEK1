@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><img src="/Users/icept/Desktop/kh.jpeg" alt="kh.jpeg         "></title>
+</head>
+<body>
+    <h1>Learn html</h1>
+    <p>we are students</p>
+    <strong>strong</strong>
+    <h3>sdfg</h3>
+    <em>i am em <br>tag</em>
+    <!--tags-->
+    <img src="/Users/icept/Desktop/images343.png" alt="images343.png">
+    <hr>
+    <header>languages</header>
+    <li>html</li>
+    <li>java</li>
+    <li>css</li>
+    <li>javascript</li>
+    <hr>
+    <table border ="4" width="100%">
+        <tr>
+            <th>students</th>
+            <th>subjects</th>
+            <th>marks</th>
+        </tr>
+<tr>
+    <td>rabia</td>
+    <td>maths</td>
+    <td>45</td>
+</tr>
+<tr>
+    <td>khansa</td>
+    <td>science</td>
+    <td>34</td>
+</tr>
+    </table>
+    <a href="http://tinyurl.com/pythontest2022"></a>
+    <img src="/Users/icept/Desktop/kh.jpeg" alt="kh.jpeg">
+    <img src="/Users/icept/Desktop/kh/abc.jpeg" alt="abc.jpeg">
+    <img src="/Users/icept/Desktop/kh/download.jpeg" alt="download.jpeg" style="width: 700px;">
+    <a href=<iframe width="800" height="450" src="https://www.youtube.com/embed/qz0aGYrrlhU" title="HTML Tutorial for Beginners: HTML Crash Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>link</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png" style="width: 700px;">
+    
+    <a href="https://www.google.com/">google</a>
+
+
+

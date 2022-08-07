@@ -1,0 +1,18 @@
+body{
+    background-image: url(download.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+}
+form{
+background-color: rgb(248, 97, 198);
+width: 40%;
+text-align: center;
+right: 80%;
+position: center;
+
+}
+
+.container{
+    margin-left: 40%;
+}
